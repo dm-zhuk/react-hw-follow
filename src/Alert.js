@@ -10,7 +10,7 @@ const getBgColor = (variant) => {
   switch (variant) {
     case "info":
       return "blue";
-    case success:
+    case "success":
       return "green";
     case "error":
       return "red";
