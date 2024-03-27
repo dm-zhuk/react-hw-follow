@@ -41,7 +41,7 @@ const App = () => {
   );
 }; */
 
-import { Alert } from "./Alert";
+import { Alert } from "./components/Alert.js";
 
 export const App = () => {
   return (
